@@ -44,3 +44,4 @@
     document.getElementById("result").innerHTML = result;
   }
 </script>
+//привет! неплохой код! молодец
